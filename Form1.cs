@@ -5,6 +5,10 @@ namespace Wä
         public Form1()
         {
             InitializeComponent();
+
+            //wä
         }
+
+
     }
 }
