@@ -7,6 +7,8 @@ namespace Wä
             InitializeComponent();
 
             //wä
+
+            //tihi
         }
 
 
